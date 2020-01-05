@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWalletMobile</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="label_data">Data</string>
+</resources>
